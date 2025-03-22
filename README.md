@@ -1,32 +1,35 @@
-<div><h1>🌍 Translate Clone</h1></div>
-<h4>Hello! In this project, I have developed a modern Translate App that will allow you to translate between different languages ​​quickly and accurately. This application, which I have prepared using powerful technologies such as React and Redux Toolkit, is here with a user-friendly and simple interface!</h4>
+<div><h1>✈️ Flight Radar Clone</h1></div>
+<h4>Hello! In this project, I developed a Flight Radar Clone application. You can observe air traffic in detail with this application that simulates real-time air traffic and allows you to track flights on the map. 🛫🛬</h4>
 <h4>Star ⭐ the repo if you like what you see 😉 </h4>
  <div>
  <h2>📸 Project Demo</h2>
  <p>Watch the video to see how the project works! 👇</p>
    
 
-https://github.com/user-attachments/assets/f18c4e40-8be9-42d6-8edc-06f1f10b8c27
+https://github.com/user-attachments/assets/31f814df-3afc-444b-bd17-bfe9df1eac4a
 
 
 <h2>🛠️ Technologies and Libraries Used</h2>
  <ul>
-   <li>React ⚛️ - UI and component-based structure </li>
-   <li>Redux Toolkit 🛠️ - Global state management</li>
-   <li>React Router Dom 🌍 - Page routing and route management</li>
-   <li>TailwindCSS 💨 - Modern utility-first CSS framework</li>
-   <li>Axios 🌐 - It is a popular client library used to make HTTP requests.</li>
-   <li>React-Redux 🔄 - By integrating React components with the Redux store, it makes it easier for components to retrieve data from the store and dispatch operations.</li>
-   <li>React-Select 🔘 - It provides fully featured, customizable select/dropdown components.</li>
+   <li>⚛️ React: Modern component-based frontend library.</li>
+   <li>🛠️ Redux Toolkit: Modern Redux solution used for state management.</li>
+   <li>🌐 Axios: HTTP client for API requests.</li>
+   <li>🎨 Bootstrap: CSS framework for responsive and stylish UI designs.</li>
+   <li>🗺️ Leaflet  and React-Leaflet: To create the flight map and place markers on the map.</li>
+   <li>🔄 Leaflet-RotatedMarker: Marker rotation to show the direction of the airplane icons.</li>
+   <li>🔘 React-Paginate: For pagination operations.</li>
+   <li>🎯 React-Router-Dom: Multi-page and routing operations.</li>
+   <li>🔗 React-Icons: Rich icon support within the project.</li>
+   <li>🖼️ @splidejs/react-splide: For slider and carousel structure.
+</li>
      
  </ul>  
  
  <h2>🎨 Features</h2>
  <ul>
-   <li>✔️ Real-time translation API connection</li>
-   <li>✔️ Easy-to-use, modern and responsive interface</li>
-   <li>✔️ Dynamic language selection (React-Select integration)</li>
-   <li>✔️ Global state management (Redux Toolkit)</li>
-   <li>✔️ Fast and optimized performance</li>
-   <li>✔️ Modular and easily scalable code structure</li>
+   <li>✔️ Real-time flight data and dynamic API integration</li>
+   <li>✔️ Interactive map showing aircraft locations</li>
+   <li>✔️ Simulate aircraft orientations with marker rotations</li>
+   <li>✔️ Paging and flight listing</li>
+   <li>✔️ Responsive and mobile-friendly design</li>
  </ul> 

@@ -10,7 +10,7 @@ const Gallery = ({ data }) => {
 
   return (
     <div className="gallery">
-      {arr?.lenght > 0 ? (
+      {arr?.length > 0 ? (
         <Splide aria-label="My Favorite Images">
           {arr.map((item, key) => (
             <SplideSlide key={key}>
